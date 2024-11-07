@@ -1,4 +1,4 @@
-![Bear paddling a canoe](./images/ComfyUI_05997_jgrr.jpg)
+![Bear paddling a canoe](./images/ff.jpg)
 
 
 to run python script with arcpy
