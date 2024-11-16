@@ -17,5 +17,6 @@ then:
 
 
 TODO
+- add view of northeast carry
 - script to calculate cost path
 - script to auto update fields from csvs 
