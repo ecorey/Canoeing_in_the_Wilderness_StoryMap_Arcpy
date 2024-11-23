@@ -1,6 +1,6 @@
 ![Bear paddling a canoe](./images/ff.jpg)
 
-[Canoeing in the Wilderness](https://storymaps.arcgis.com/stories/3d10cbf45911473aa5d6b6fc8c7fe86d/edit)
+[Canoeing in the Wilderness](https://storymaps.arcgis.com/stories/3d10cbf45911473aa5d6b6fc8c7fe86d)
 
 to run python script with arcpy
 
@@ -16,7 +16,3 @@ then:
 
 
 
-TODO
-- add view of northeast carry
-- script to calculate cost path
-- script to auto update fields from csvs 
